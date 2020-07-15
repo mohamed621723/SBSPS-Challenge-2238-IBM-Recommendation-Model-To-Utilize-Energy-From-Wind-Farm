@@ -1,6 +1,6 @@
 # SBSPS-Challenge-2238-IBM-Recommendation-Model-To-Utilize-Energy-From-Wind-Farm
 thanks for IBM TO GIVE THIS OPPORTUNITY TO ACESS SUCH GREAT PALTFORM FOR FREE,we really loved it.SPECAIL THANKS TO SMARTINTERNZ AND MENTOR'S WHO EVER GUIDE US,
-by clicking link u can acess our model https://node-red-itpxr.eu-gb.mybluemix.net/home.
+by clicking link u can acess our model https://node-red-itpxr.eu-gb.mybluemix.net/home.NOTE-OUR GUI ONLY SUPPORT IN PCS ONLY,we are working in all screen size compatibility,
 PLS appreciate our work by sharing feed back here https://node-red-itpxr.eu-gb.mybluemix.net/home#contact.
 we done this model in four segment,mention below-
 *wind speed *wind directions *wind power *GUI,
