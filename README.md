@@ -6,4 +6,4 @@ we done this model in four segment,mention below-
 *wind speed *wind directions *wind power *GUI,
 for wind speed and wind direction we used ibm note book to deploy model ,wind power ibm auto ai.
 GUI is fully supported by node red.
-IBM clountant database is connected to reviece your vailable feedback,thank you.
+IBM clountant database is connected as backend server,thank you.
